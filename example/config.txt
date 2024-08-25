@@ -1,0 +1,2 @@
+Prefix plugins/Abricate/example/
+Plugin Abricate inputfile assembly.fa outputfile output.txt

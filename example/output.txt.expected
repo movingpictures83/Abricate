@@ -1,0 +1,11 @@
+Using nucl database ncbi:  5386 sequences -  2024-May-22
+Processing: plugins/Abricate/example//assembly.fa
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+Found 5 genes in plugins/Abricate/example//assembly.fa
+Tip: you can use the --summary option to combine reports in a presence/absence matrix.
+Done.
+plugins/Abricate/example//assembly.fa	LGJG01000038	62416	62796	-	blaI_of_Z	1-381/381	===============	0/0	100.00	95.28	ncbi	NG_047499.1	penicillinase repressor BlaI	BETA-LACTAM
+plugins/Abricate/example//assembly.fa	LGJG01000038	62786	64543	-	blaR1	1-1758/1758	===============	0/0	100.00	92.83	ncbi	NG_047539.1	beta-lactam sensor/signal transducer BlaR1	BETA-LACTAM
+plugins/Abricate/example//assembly.fa	LGJG01000038	64650	65495	+	blaZ	1-846/846	===============	0/0	100.00	96.81	ncbi	NG_055999.1	penicillin-hydrolyzing class A beta-lactamase BlaZ	BETA-LACTAM
+plugins/Abricate/example//assembly.fa	LGJG01000040	190796	191281	+	dfrC	1-486/486	===============	0/0	100.00	99.59	ncbi	NG_047752.1	trimethoprim-resistant dihydrofolate reductase DfrC	TRIMETHOPRIM
+plugins/Abricate/example//assembly.fa	LGJG01000041	35416	35844	-	fosB-251804940	1-429/429	===============	0/0	100.00	100.00	ncbi	NG_047889.1	FosB family fosfomycin resistance bacillithiol transferase	FOSFOMYCIN
